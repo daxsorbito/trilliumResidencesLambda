@@ -1,0 +1,19 @@
+{
+  "name": "trilliumresidenceslambda",
+  "version": "1.0.0",
+  "description": "lambda for trilliumresidences",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daxsorbito/trilliumResidencesLambda.git"
+  },
+  "author": "Dax Sorbito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daxsorbito/trilliumResidencesLambda/issues"
+  },
+  "homepage": "https://github.com/daxsorbito/trilliumResidencesLambda#readme"
+}
